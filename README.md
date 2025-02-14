@@ -1,2 +1,2 @@
-see datareceiverappthroughwebsocket also
+see datareceiverappthroughwebsocket also for full setup
 
